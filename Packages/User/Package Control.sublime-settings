@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"Flask Completions",
 		"Package Control",
 		"PowerShell",
 		"Razor",
