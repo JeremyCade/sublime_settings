@@ -7,3 +7,11 @@ Ok, I know what your thinking...
 **YES!**
 
 I live in a multi-machine, multi-environment world, and quite frankly I like to have the same settings across devices and operating systems. This is the quickest and easiest way for me to do that. 
+
+
+## Checkout Locations
+
+### Windows
+On Windows this repository should be cloned to: 
+
+    %USERPROFILE%\AppData\Roaming\Sublime Text 3\
