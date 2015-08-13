@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"C# Snippets",
 		"Emmet",
 		"Flask Completions",
 		"OmniSharp",
