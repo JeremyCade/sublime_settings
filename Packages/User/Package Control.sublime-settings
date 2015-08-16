@@ -4,9 +4,13 @@
 	],
 	"installed_packages":
 	[
+		"C# Snippets",
 		"Emmet",
+		"Flask Completions",
+		"OmniSharp",
 		"Package Control",
 		"PowerShell",
+		"Razor",
 		"TypeScript"
 	]
 }
