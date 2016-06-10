@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,10 +8,12 @@
 		"C# Snippets",
 		"Emmet",
 		"Flask Completions",
+		"GoSublime",
 		"OmniSharp",
 		"Package Control",
 		"PowerShell",
 		"Razor",
+		"Terraform",
 		"TypeScript"
 	]
 }
