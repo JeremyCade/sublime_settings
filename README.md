@@ -13,8 +13,11 @@ I live in a multi-machine, multi-environment world, and quite frankly I like to 
 ### Linux
 
     git clone git@github.com:JeremyCade/sublime_settings.git
-    cd sublime_settings.git
-    mv * $HOME/.config/sublime-text-3/
+    cd sublime_settings
+    mv .git .gitignore README.md $HOME/.config/sublime-text-3/
+    mv Packages/ $HOME/.config/sublime-text-3/
+    cd ..
+    rm -rf sublime_settings
 
 
 ## Checkout Locations
