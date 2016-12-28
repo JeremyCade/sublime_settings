@@ -19,6 +19,15 @@ I live in a multi-machine, multi-environment world, and quite frankly I like to 
     cd ..
     rm -rf sublime_settings
 
+### OS X
+
+   git clone git@github.com:JeremyCade/sublime_settings.git
+   cd sublime_settings
+   mv .git .gitignore README.md "$HOME/Library/Application Support/Sublime Text 3/"
+   rm -rf "$HOME/Library/Application Support/Sublime Text 3/Packages/"
+   mv "Install Packages" Packages "$HOME/Library/Application Support/Sublime Text 3/"
+   rm -rf submlime_settings
+
 
 ## Checkout Locations
 
